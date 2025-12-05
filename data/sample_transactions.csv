@@ -1,0 +1,12 @@
+id,date,type,category,amount,notes
+1,2025-12-01,expense,Groceries,120.50,Weekly shopping
+2,2025-12-01,income,Salary,2500.00,Monthly salary
+3,2025-12-02,expense,Transport,25.00,Bus pass
+4,2025-12-03,expense,Entertainment,45.99,Streaming + cinema
+5,2025-12-04,income,Freelance,300.00,Client payment
+6,2025-12-04,expense,Groceries,60.75,Top-up
+7,2025-12-05,expense,Utilities,150.00,Electricity bill
+8,2025-12-06,income,Investment,200.00,Dividends
+9,2025-12-07,expense,Health,80.00,Dental check-up
+10,2025-12-08,expense,Transport,30.00,Taxi fare
+11,2025-12-09,income,Gift,100.00,Birthday gift
